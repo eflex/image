@@ -1,0 +1,31 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "Image manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eflex/image.git"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "crop",
+    "gravity",
+    "quality",
+    "identify",
+    "write"
+  ],
+  "author": "eFlexervices",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eflex/image/issues"
+  },
+  "homepage": "https://github.com/eflex/image",
+  "dependencies": {
+    "gm": "^1.17.0"
+  }
+}
